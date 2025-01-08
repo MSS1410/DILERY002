@@ -61,7 +61,7 @@ Dilery es una API para gestionar una galería digital de arte. Permite a los usu
 ## ⚙️ Instalación y Uso
 
 ### **1. Clonar el repositorio**
-https://github.com/MSS1410/Dilery.git
+https://github.com/MSS1410/DILERY002.git
 
 **2. Instalar Dependencias**
 npm install
